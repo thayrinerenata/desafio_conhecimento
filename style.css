@@ -1,0 +1,27 @@
+.center {text-align: center;}
+
+.container {display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;}
+
+.botao {float: right;
+    font-size: 20px;}
+
+.botao2 {font-size: 20px;
+    float:inline-end;} 
+
+.cabecario {font-size: 35px;}
+
+.formulario {
+    display: flex;
+    justify-content:center;
+}
+
+.tabela {
+    
+    justify-content: center;
+}
+
+
+
